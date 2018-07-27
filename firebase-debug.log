@@ -1,0 +1,25 @@
+[debug] [2018-07-26T19:29:40.031Z] ----------------------------------------------------------------------
+[debug] [2018-07-26T19:29:40.033Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2018-07-26T19:29:40.033Z] CLI Version:   4.0.0
+[debug] [2018-07-26T19:29:40.033Z] Platform:      linux
+[debug] [2018-07-26T19:29:40.033Z] Node Version:  v10.7.0
+[debug] [2018-07-26T19:29:40.039Z] Time:          Thu Jul 26 2018 22:29:40 GMT+0300 (East Africa Time)
+[debug] [2018-07-26T19:29:40.039Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-07-26T19:29:40.049Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2018-07-26T19:29:40.049Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/vaatiesther/Desktop/ZTUTORIALS_2018 /Angular2/bucketlist
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
